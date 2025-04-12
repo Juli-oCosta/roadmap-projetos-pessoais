@@ -40,17 +40,20 @@ Python 3.6 or higher
 📁 Project Structure
 
 password-generator/
+
 ├── src/
+
 │   └── password_generator.py
+
 └── README.md
 
 ---
 
 🎯 Future Improvements
-Add a GUI using tkinter;
-Add password strength rating;
-Export passwords to file;
-Option to copy to clipboard;
+Add a GUI using tkinter; 
+Add password strength rating; 
+Export passwords to file; 
+Option to copy to clipboard; 
 Command line arguments support.
 
 ---
@@ -61,5 +64,5 @@ This project was developed as a hands-on exercise to reinforce Python programmin
 ---
 
 🧑‍💻 Author
-Julio Cesar Costa Rodrigues
+Julio Cesar Costa Rodrigues. 
 Feel free to check out my other projects!
