@@ -39,11 +39,11 @@ Python 3.6 or higher
 
 📁 Project Structure
 
-password-generator/
+project-password-generator/
 
 ├── src/
 
-│   └── project-password-generator.py
+│   └── password_generator.py
 
 └── README.md
 
