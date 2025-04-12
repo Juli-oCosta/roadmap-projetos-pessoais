@@ -43,7 +43,7 @@ password-generator/
 
 ├── src/
 
-│   └── password_generator.py
+│   └── project-password-generator.py
 
 └── README.md
 
